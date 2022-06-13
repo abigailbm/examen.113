@@ -1,0 +1,13 @@
+<html>
+<head>
+</head>
+<body>
+<h1>descargas</h1>
+<ul>
+    <li><a href="url">Inicio</a></li>
+    <li><a href="url">Galeria</a></li>
+    <li><a href="url">Descargas</a></li>
+ </ul>
+<p>esta es la descargas</p>
+</body>
+</html>
